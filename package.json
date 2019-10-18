@@ -1,13 +1,16 @@
 {
-  "name": "gulp-qiniu-utils",
-  "version": "2.0.1",
-  "description":
-    "gulp-qiniu-utils, such as upload, remove, prefetch, refresh and so on",
+  "name": "gulp-qiniu",
+  "version": "0.0.1",
+  "description": "gulp-qiniu-utils, such as upload, remove, prefetch, refresh and so on",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["gulp", "qiniu", "upload"],
+  "keywords": [
+    "gulp",
+    "qiniu",
+    "upload"
+  ],
   "author": "lewiswei",
   "license": "ISC",
   "devDependencies": {},
